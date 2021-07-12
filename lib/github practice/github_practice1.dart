@@ -41,7 +41,11 @@ class _GitHubPractice1State extends State<GitHubPractice1> {
             ),
           ),
           Text(
+<<<<<<< HEAD
             'my',
+=======
+            'my friend',
+>>>>>>> 4545edf9976ec05b9a189df49e8d16c07b1f8a74
             style: TextStyle(
               fontSize: 18,
             ),
