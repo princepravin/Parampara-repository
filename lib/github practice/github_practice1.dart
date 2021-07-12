@@ -14,6 +14,16 @@ class _GitHubPractice1State extends State<GitHubPractice1> {
       height: height,
       width: width,
       color: Colors.green.shade200,
+      child: Column(
+        children: [
+          Text(
+            'hello',
+            style: TextStyle(
+              fontSize: 18,
+            ),
+          ),
+        ],
+      ),
     );
   }
 }
