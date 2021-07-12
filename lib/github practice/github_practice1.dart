@@ -28,6 +28,12 @@ class _GitHubPractice1State extends State<GitHubPractice1> {
               fontSize: 18,
             ),
           ),
+          Text(
+            'are',
+            style: TextStyle(
+              fontSize: 18,
+            ),
+          ),
         ],
       ),
     );
